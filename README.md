@@ -85,28 +85,11 @@ A project designed to help users build and customize their own PC setup.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h3 align="left">Activity:</h3>
 
-<div align="center">
-  <a href="https://github.com/hussien-py">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussien-py&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hussien-py"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hussien-py&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hussien-py"/>
-  </a>
-</div>
 <p align="center">
   <a href="https://github.com/hussien-py">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussien-py&&theme=tokyonight" alt="hussien-py" />
   </a>
 </p>
-
-![](https://github-readme-stats.vercel.app/api?username=hussien-py&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hussien-py&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hussien-py&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=97&section=footer&reversal=false&text=YNWA&fontSize=70&fontColor=ff0000&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=15&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
