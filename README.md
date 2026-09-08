@@ -17,9 +17,9 @@
 <h4 align="left">🔧 BuildMyPC</h4>
 A project designed to help users build and customize their own PC setup.
 
-🔗 [View Project](https://github.com/DanteProgrammer2oo4/winPrograms/releases/tag/BuildMyPC)
+🔗 [View Project](https://github.com/hussien-py/winPrograms/releases/tag/BuildMyPC)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danteprogrammer2oo4&label=Profile%20views&color=0e75b6&style=flat" alt="danteprogrammer2oo4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussien-py&label=Profile%20views&color=0e75b6&style=flat" alt="danteprogrammer2oo4" /> </p>
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGs3MWNhcHBscjRhdHA5bnhtenNoazczM3BuN3Q3cGF1d3Y5cGlicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErizhSwfQlDItcJpzw/giphy.gif"  />
 </div>
@@ -68,9 +68,9 @@ A project designed to help users build and customize their own PC setup.
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
-| _[BuldMyPC program](https://github.com/DanteProgrammer2oo4/winPrograms/releases/tag/BuildMyPC)_            | designed to help users plan, assemble, or configure a custom PC build.             |
-| _[Calculator](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/Calculator.exe)_                          | modern calculatur beautiful design     |
-| _[QRcode generator](https://github.com/DanteProgrammer2oo4/python-projects/blob/main/qrcode.exe)_                  | generate any link or file to QR code             |
+| _[BuldMyPC program](https://github.com/hussien-py/winPrograms/releases/tag/BuildMyPC)_            | designed to help users plan, assemble, or configure a custom PC build.             |
+| _[Calculator](https://github.com/hussien-py/python-projects/blob/main/Calculator.exe)_                          | modern calculatur beautiful design     |
+| _[QRcode generator](https://github.com/hussien-py/python-projects/blob/main/qrcode.exe)_                  | generate any link or file to QR code             |
 
 
 📫 **Please feel free to contact me at any time; I’ll be more than happy to help!**
@@ -86,18 +86,27 @@ A project designed to help users build and customize their own PC setup.
 <h3 align="left">Activity:</h3>
 
 <div align="center">
-  <a href="https://github.com/DanteProgrammer2oo4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanteProgrammer2oo4&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DanteProgrammer2oo4"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanteProgrammer2oo4&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DanteProgrammer2oo4"/>
+  <a href="https://github.com/hussien-py">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussien-py&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hussien-py"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hussien-py&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hussien-py"/>
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/DanteProgrammer2oo4">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanteProgrammer2oo4&&theme=tokyonight" alt="DanteProgrammer2oo4" />
+  <a href="https://github.com/hussien-py">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussien-py&&theme=tokyonight" alt="hussien-py" />
   </a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=hussien-py&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hussien-py&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hussien-py&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=97&section=footer&reversal=false&text=YNWA&fontSize=70&fontColor=ff0000&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=15&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
