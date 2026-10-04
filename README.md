@@ -22,7 +22,7 @@ A project designed to help users build and customize their own PC setup.
 Sorty
 Automatic File Organizer for Windows
 
-🔗 [View Project](https://github.com/hussien-py/winPrograms/releases/tag/SORTY)
+🔗 [View Project](https://github.com/hussien-py/SORTY)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussien-py&label=Profile%20views&color=0e75b6&style=flat" alt="danteprogrammer2oo4" /> </p>
 <div align="center">
@@ -83,7 +83,7 @@ Automatic File Organizer for Windows
 <a href="mailto:hussaintheking51@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
-<a href="https://instagram.com/hussien.py" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+<a href="https://instagram.com/scouser2oo4" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 
 </div>
 
