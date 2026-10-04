@@ -74,8 +74,9 @@ Automatic File Organizer for Windows
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
 | _[BuldMyPC program](https://github.com/hussien-py/winPrograms/releases/tag/BuildMyPC)_            | designed to help users plan, assemble, or configure a custom PC build.             |
+| _[Sorty]((https://github.com/hussien-py/SORTY))_                  |   Automatic File Organizer for windows          |
 | _[Calculator](https://github.com/hussien-py/python-projects/blob/main/Calculator.exe)_                          | modern calculatur beautiful design     |
-| _[QRcode generator](https://github.com/hussien-py/python-projects/blob/main/qrcode.exe)_                  | generate any link or file to QR code             |
+
 
 
 📫 **Please feel free to contact me at any time; I’ll be more than happy to help!**
